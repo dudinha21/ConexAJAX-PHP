@@ -8,7 +8,7 @@
  
  
  
- $p->conectar("formbasic", "localhost", "root", "");
+ $p->conectar("pweb.usuario", "localhost", "root", "");
  if($p->erro == "")
  {
      $p->excluir($email);
