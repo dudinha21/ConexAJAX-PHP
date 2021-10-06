@@ -55,6 +55,7 @@
                     <label>Senha:</label> <input type="text" name="senha" id="senha" />
                     <br/><br/>
                     <input type="button" value="Salvar" id="salvar" />
+                    <a href="funcoes.js">Excluir usuário específico" </a>
                 </form>
             </div>
             <div id="mascara"></div>
